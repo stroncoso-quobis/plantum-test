@@ -26,7 +26,7 @@ This MSC diagrams shows the most relevant steps performed by Bob to accept the i
 !define SHOW_Msg1
 
 
-!include ../runtime_objects.plantuml
+!include runtime_objects.plantuml
 
 participant "App" as App@1B
 actor "Bob" as Bob
